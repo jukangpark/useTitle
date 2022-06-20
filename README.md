@@ -2,4 +2,4 @@
 
 React Hook to update your document's title
 
-https://npmjs.com/org/use-title
+https://www.npmjs.com/package/@custom_hooks/use-title
