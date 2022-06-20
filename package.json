@@ -1,5 +1,5 @@
 {
-  "name": "usetitle",
+  "name": "@custom_hooks/use-title",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
